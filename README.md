@@ -84,6 +84,9 @@
 
 ## 5. 🏆 추천 알고리즘 및 시연 (Recommendation Engine)
 
+#### **[📍 인디케이터 바로가기](https://seohyun4872.github.io/Seoul_Where-do-you-want-to-start-/)** 
+<br>
+
 1.  사용자 선호 정보 입력 (업종, 가격대, 위치 등).
 2.  각 지표별 필터링 조건을 만족하는 상권 추출.
 3.  **조정 매출액(Adjusted Sales)** 순으로 Top 10 상권 랭킹 산정
@@ -95,6 +98,7 @@
 
 ### **Demo Screenshot** 
 <img width="1080" height="560" alt="Image" src="https://github.com/user-attachments/assets/19ef3df8-97af-499a-b8d7-e23cd9f87c8e" /><br>
+
 
 ---
 
