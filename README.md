@@ -85,7 +85,6 @@
 ## 5. 🏆 추천 알고리즘 및 시연 (Recommendation Engine)
 
 #### **[📍 인디케이터 바로가기](https://seohyun4872.github.io/Seoul_Where-do-you-want-to-start-/)** 
-<br>
 
 1.  사용자 선호 정보 입력 (업종, 가격대, 위치 등).
 2.  각 지표별 필터링 조건을 만족하는 상권 추출.
